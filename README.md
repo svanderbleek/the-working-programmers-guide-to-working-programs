@@ -7,6 +7,8 @@ What if nand2tetris met deepspec? And took the browser to be the OS, built a lan
 * demonstrate the joy in the proof based approach to programming
 * demonstrate the impact integrated tooling can have on productivity
 
+The target audience is working programmers so there is no teaching the basics of writing programs. All introduced concepts are fully explained by building working software.
+
 ## Inspiration
 
 * nand2tetris
