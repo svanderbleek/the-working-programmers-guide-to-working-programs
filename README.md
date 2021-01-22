@@ -24,6 +24,7 @@ The language built will be called Student. The idea is what is the simplist lang
 * concrete semantics
 * turnstile
 * webassembly
+* vim
 
 ## Research
 
