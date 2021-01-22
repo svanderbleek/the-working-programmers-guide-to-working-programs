@@ -22,6 +22,8 @@ The language built will be called Student. The idea is what is the simplist lang
 * software foundations
 * programming language fundamentals in agda
 * concrete semantics
+* decision procedures
+* the calculus of computation
 * turnstile
 * webassembly
 * language server protocol
