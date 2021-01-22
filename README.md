@@ -34,3 +34,4 @@ The language built will be called Student. The idea is what is the simplist lang
 * Advanced Topics in software verification https://www.cse.unsw.edu.au/~cs4161/
 * Advanced operating systems http://www.cse.unsw.edu.au/~cs9242/current/
 * Typed Lisp https://alhassy.github.io/TypedLisp.html
+* Efficient Self-Interpretation in Lambda Calculus
