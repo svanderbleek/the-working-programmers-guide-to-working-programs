@@ -48,4 +48,3 @@ The language built will be called Student. The idea is what is the simplist lang
 * union find https://en.wikipedia.org/wiki/Disjoint-set_data_structure
 * unification https://en.wikipedia.org/wiki/Unification_(computer_science)
 * smt https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
-* fast mergeable intmaps https://hackage.haskell.org/package/containers-0.6.4.1/docs/Data-IntMap-Strict.html
