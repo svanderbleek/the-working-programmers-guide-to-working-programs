@@ -44,6 +44,7 @@ The language built will be called Student. The idea is what is the simplist lang
 * vim
 * emacs
 * xi
+* vimium
 
 ## Research
 
@@ -73,7 +74,7 @@ The language built will be called Student. The idea is what is the simplist lang
   * Verified compilation on a verified processor
   * Verified Sequential Malloc/Free https://www.cs.princeton.edu/~appel/papers/memmgr.pdf
   * VST-Floyd: A separation logic tool to verify correctness of C programs https://www.cs.princeton.edu/~appel/papers/VST-Floyd.pdf
-
+  * A Completely Verified Realistic Bootstrap Compiler
 ## Algorithms
 
 * union find https://en.wikipedia.org/wiki/Disjoint-set_data_structure
