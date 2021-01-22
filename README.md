@@ -10,12 +10,18 @@ What if nand2tetris met deepspec? And took the browser to be the OS, built a lan
 ## Inspiration
 
 * nand2tetris
+* deepspec 
+* sel4
 * rescript
 * proofs = programs
 * ml for the working programmer
 * software foundations
 * programming language fundamentals in agda
+* concrete semantics
 
 ## Research
 
 * Categorical Abstract Machine https://en.wikipedia.org/wiki/Categorical_abstract_machine
+* Human readable machine verifiable proofs for teaching constructive logic https://kilthub.cmu.edu/articles/journal_contribution/Human-Readable_Machine-Verifiable_Proofs_for_Teaching_Constructive_Logic/6606203
+* Advanced Topics in software verification https://www.cse.unsw.edu.au/~cs4161/
+* Advanced operating systems http://www.cse.unsw.edu.au/~cs9242/current/
