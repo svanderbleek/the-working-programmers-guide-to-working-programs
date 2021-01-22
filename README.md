@@ -25,6 +25,7 @@ The target audience is working programmers so there is no teaching the basics of
 ## Research
 
 * Categorical Abstract Machine https://en.wikipedia.org/wiki/Categorical_abstract_machine
+* Autosubst https://www.ps.uni-saarland.de/Publications/documents/SchaeferEtAl_2015_Autosubst_-Reasoning.pdf
 * Human readable machine verifiable proofs for teaching constructive logic https://kilthub.cmu.edu/articles/journal_contribution/Human-Readable_Machine-Verifiable_Proofs_for_Teaching_Constructive_Logic/6606203
 * Advanced Topics in software verification https://www.cse.unsw.edu.au/~cs4161/
 * Advanced operating systems http://www.cse.unsw.edu.au/~cs9242/current/
