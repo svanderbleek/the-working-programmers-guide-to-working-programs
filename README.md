@@ -4,6 +4,8 @@
 
 What if nand2tetris met deepspec? And took the browser to be the OS, built a language with a similar approach Rescript uses, built a quick ide with language server protocol support, used ideas like turnstile for tooling around building out language features, provided interactive theorem proving style programming features, and more. The idea is to to bootstrap a learning environment for Software Verification or Programming Language Foundations in Agda, with everything as simple as possible to demonstrate the concepts, and crucially be able to chain verification using a proof first approach.
 
+Two major goals are
+
 * demonstrate the joy in the proof based approach to programming
 * demonstrate the impact integrated tooling can have on productivity
 
@@ -19,6 +21,7 @@ The language built will be called Student. The idea is what is the simplist lang
 * the little typer
 * the little prover
 * software abstractions
+* tla+
 * handbook of practical logic and automated reasoning
 * fundamental proof methods in computer science
 * rescript
@@ -30,11 +33,17 @@ The language built will be called Student. The idea is what is the simplist lang
 * decision procedures
 * the calculus of computation
 * turnstile
+* twelf
+* tutch
+* carnap
 * webassembly
 * language server protocol
+* haskell
+* ml
 * lisp
 * vim
 * emacs
+* xi
 
 ## Research
 
