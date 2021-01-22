@@ -9,7 +9,7 @@ What if nand2tetris met deepspec? And took the browser to be the OS, built a lan
 
 The target audience is working programmers so there is no teaching the basics of writing programs. All introduced concepts are fully explained by building programs.
 
-The language built will be called Student.
+The language built will be called Student. The idea is what is the simplist language that allows us to prove anything useful in the verification chain. From there we wish to add extensions to be able to prove more complicated things while integrating interactivity into a minimal in browser IDE running on our OS.
 
 ## Inspiration
 
@@ -23,6 +23,7 @@ The language built will be called Student.
 * programming language fundamentals in agda
 * concrete semantics
 * turnstile
+* webassembly
 
 ## Research
 
