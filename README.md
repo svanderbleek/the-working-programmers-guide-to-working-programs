@@ -18,6 +18,7 @@ What if nand2tetris met deepspec? And took the browser to be the OS, built a lan
 * software foundations
 * programming language fundamentals in agda
 * concrete semantics
+* turnstile
 
 ## Research
 
