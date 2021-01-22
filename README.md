@@ -35,3 +35,5 @@ The language built will be called Student. The idea is what is the simplist lang
 * Advanced operating systems http://www.cse.unsw.edu.au/~cs9242/current/
 * Typed Lisp https://alhassy.github.io/TypedLisp.html
 * Efficient Self-Interpretation in Lambda Calculus
+* Lambda -> Types https://crypto.stanford.edu/~blynn/lambda/
+* Compilers -> HOL https://crypto.stanford.edu/~blynn/compiler/
