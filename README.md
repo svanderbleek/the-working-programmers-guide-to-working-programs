@@ -40,3 +40,5 @@ The language built will be called Student. The idea is what is the simplist lang
 * Lambda -> Types https://crypto.stanford.edu/~blynn/lambda/
 * Compilers -> HOL https://crypto.stanford.edu/~blynn/compiler/
 * scheme to depednent type theory https://github.com/gbaz/mess
+* javascript json program synthesis https://grgv.xyz/inductive_program_synthesis/
+* Microprocessor and dependent types in javascript https://tiarkrompf.github.io/notes/?/dependent-types/ and https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/
