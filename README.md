@@ -42,13 +42,18 @@ The language built will be called Student. The idea is what is the simplist lang
 * Human readable machine verifiable proofs for teaching constructive logic https://kilthub.cmu.edu/articles/journal_contribution/Human-Readable_Machine-Verifiable_Proofs_for_Teaching_Constructive_Logic/6606203
 * Advanced Topics in software verification https://www.cse.unsw.edu.au/~cs4161/
 * Advanced operating systems http://www.cse.unsw.edu.au/~cs9242/current/
-* Typed Lisp https://alhassy.github.io/TypedLisp.html
-* Efficient Self-Interpretation in Lambda Calculus
-* Lambda -> Types https://crypto.stanford.edu/~blynn/lambda/
-* Compilers -> HOL https://crypto.stanford.edu/~blynn/compiler/
-* scheme to depednent type theory https://github.com/gbaz/mess
-* javascript json program synthesis https://grgv.xyz/inductive_program_synthesis/
-* Microprocessor and dependent types in javascript https://tiarkrompf.github.io/notes/?/dependent-types/ and https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/
+* lisp
+  * Typed Lisp https://alhassy.github.io/TypedLisp.html
+  * scheme to depednent type theory https://github.com/gbaz/mess
+* lambda calculus
+  * Efficient Self-Interpretation in Lambda Calculus
+  * Lambda -> Types https://crypto.stanford.edu/~blynn/lambda/
+  * Compilers -> HOL https://crypto.stanford.edu/~blynn/compiler/
+* javascript
+  * json and synthesis https://grgv.xyz/inductive_program_synthesis/
+  * Parser https://tiarkrompf.github.io/notes/?/just-write-the-parser/ 
+  * Microprocessor https://tiarkrompf.github.io/notes/?/dependent-types/
+  * Dependent types https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/ 
 
 ## Algorithms
 
