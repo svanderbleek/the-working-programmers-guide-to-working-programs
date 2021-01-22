@@ -42,3 +42,10 @@ The language built will be called Student. The idea is what is the simplist lang
 * scheme to depednent type theory https://github.com/gbaz/mess
 * javascript json program synthesis https://grgv.xyz/inductive_program_synthesis/
 * Microprocessor and dependent types in javascript https://tiarkrompf.github.io/notes/?/dependent-types/ and https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/
+
+## Algorithms
+
+* union find https://en.wikipedia.org/wiki/Disjoint-set_data_structure
+* unification https://en.wikipedia.org/wiki/Unification_(computer_science)
+* smt https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
+* fast mergeable intmaps https://hackage.haskell.org/package/containers-0.6.4.1/docs/Data-IntMap-Strict.html
