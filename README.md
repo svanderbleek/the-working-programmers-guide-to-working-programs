@@ -61,6 +61,7 @@ The language built will be called Student. The idea is what is the simplist lang
 
 ## Algorithms
 
-* union find (unification https://en.wikipedia.org/wiki/Disjoint-set_data_structure
+* union find https://en.wikipedia.org/wiki/Disjoint-set_data_structure
 * unification https://en.wikipedia.org/wiki/Unification_(computer_science)
 * smt https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
+* skolemization https://en.wikipedia.org/wiki/Skolem_normal_form
