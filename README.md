@@ -58,6 +58,8 @@ The language built will be called Student. The idea is what is the simplist lang
   * Microprocessor https://tiarkrompf.github.io/notes/?/dependent-types/
   * Dependent types https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/ 
   * resolution automated proof system https://rmarcus.info/blog/2015/09/02/vulcan.html
+* assembly
+  * Typed assembly language https://en.wikipedia.org/wiki/Typed_assembly_language
 
 ## Algorithms
 
