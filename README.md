@@ -39,6 +39,7 @@ The language built will be called Student. The idea is what is the simplist lang
 * webassembly
 * language server protocol
 * haskell
+* idris
 * ml
 * lisp
 * vim
