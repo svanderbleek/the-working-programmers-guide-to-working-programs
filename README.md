@@ -16,6 +16,11 @@ The language built will be called Student. The idea is what is the simplist lang
 * nand2tetris
 * deepspec 
 * sel4
+* the little typer
+* the little prover
+* software abstractions
+* handbook of practical logic and automated reasoning
+* fundamental proof methods in computer science
 * rescript
 * proofs = programs
 * ml for the working programmer
