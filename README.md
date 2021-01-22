@@ -60,6 +60,10 @@ The language built will be called Student. The idea is what is the simplist lang
   * resolution automated proof system https://rmarcus.info/blog/2015/09/02/vulcan.html
 * assembly
   * Typed assembly language https://en.wikipedia.org/wiki/Typed_assembly_language
+* verification
+  * Verified compilation on a verified processor
+  * Verified Sequential Malloc/Free https://www.cs.princeton.edu/~appel/papers/memmgr.pdf
+  * VST-Floyd: A separation logic tool to verify correctness of C programs https://www.cs.princeton.edu/~appel/papers/VST-Floyd.pdf
 
 ## Algorithms
 
