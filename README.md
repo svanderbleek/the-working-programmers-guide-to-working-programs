@@ -42,6 +42,8 @@ The language built will be called Student. The idea is what is the simplist lang
 * Human readable machine verifiable proofs for teaching constructive logic https://kilthub.cmu.edu/articles/journal_contribution/Human-Readable_Machine-Verifiable_Proofs_for_Teaching_Constructive_Logic/6606203
 * Advanced Topics in software verification https://www.cse.unsw.edu.au/~cs4161/
 * Advanced operating systems http://www.cse.unsw.edu.au/~cs9242/current/
+* python
+  * Pedagogical first-order prover in Python https://github.com/eprover/PyRes
 * lisp
   * Typed Lisp https://alhassy.github.io/TypedLisp.html
   * scheme to depednent type theory https://github.com/gbaz/mess
