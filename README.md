@@ -9,6 +9,8 @@ What if nand2tetris met deepspec? And took the browser to be the OS, built a lan
 
 The target audience is working programmers so there is no teaching the basics of writing programs. All introduced concepts are fully explained by building programs.
 
+The language built will be called Student.
+
 ## Inspiration
 
 * nand2tetris
