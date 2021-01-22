@@ -15,3 +15,7 @@ What if nand2tetris met deepspec? And took the browser to be the OS, built a lan
 * ml for the working programmer
 * software foundations
 * programming language fundamentals in agda
+
+## Research
+
+* Categorical Abstract Machine https://en.wikipedia.org/wiki/Categorical_abstract_machine
