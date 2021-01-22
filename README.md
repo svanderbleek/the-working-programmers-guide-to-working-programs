@@ -24,6 +24,8 @@ The language built will be called Student. The idea is what is the simplist lang
 * concrete semantics
 * turnstile
 * webassembly
+* language server protocol
+* lisp
 * vim
 
 ## Research
@@ -37,3 +39,4 @@ The language built will be called Student. The idea is what is the simplist lang
 * Efficient Self-Interpretation in Lambda Calculus
 * Lambda -> Types https://crypto.stanford.edu/~blynn/lambda/
 * Compilers -> HOL https://crypto.stanford.edu/~blynn/compiler/
+* scheme to depednent type theory https://github.com/gbaz/mess
