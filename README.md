@@ -34,6 +34,7 @@ The language built will be called Student. The idea is what is the simplist lang
 * language server protocol
 * lisp
 * vim
+* emacs
 
 ## Research
 
