@@ -69,6 +69,10 @@ The language built will be called Student. The idea is what is the simplist lang
   * Pedagogical first-order prover in Python https://github.com/eprover/PyRes
   * Compilers -> HOL https://crypto.stanford.edu/~blynn/compiler/
   * resolution automated proof system https://rmarcus.info/blog/2015/09/02/vulcan.html
+  * Learning logic and proof with an Interactive Theorem Prover https://www.andrew.cmu.edu/user/avigad/Papers/learning_logic_and_proof.pdf
+  * Towards a practical programming language based on dependent type theory
+  * Parametric Higher-Order Abstract Syntax for Mechanized Semantics http://adam.chlipala.net/papers/PhoasICFP08/
+  * Implementing Certified Programming Language Tools in Dependent Type Theory http://adam.chlipala.net/papers/ChlipalaPhD/
 * lisp
   * Typed Lisp https://alhassy.github.io/TypedLisp.html
   * scheme to depednent type theory https://github.com/gbaz/mess
@@ -91,6 +95,7 @@ The language built will be called Student. The idea is what is the simplist lang
   * A Completely Verified Realistic Bootstrap Compiler
   * A Verified Compiler for an Impure Functional Language http://adam.chlipala.net/papers/ImpurePOPL10/ImpurePOPL10.pdf
   * A Certified Type-Preserving Compiler from Lambda Calculus to Assembly Language
+  * The Next 700 Compiler Correctness Theorems http://www.ccs.neu.edu/home/amal/papers/next700ccc.pdf
 * rewrite systems
   * On Constructor Rewrite Systems and the Lambda-Calculus
 * theorem provers
