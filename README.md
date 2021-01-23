@@ -107,6 +107,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * portability https://webassembly.org/docs/portability
   * import https://webassembly.github.io/spec/core/syntax/modules.html
   * tooling https://github.com/WebAssembly/binaryen
+  * os https://browsix.org/
+  * deepspec https://pldi20.sigplan.org/details/rems-deepspec-2020/11/-WebAssembly-sequential-and-concurrent-semantics
 * verification
   * Verified compilation on a verified processor
   * Verified Sequential Malloc/Free https://www.cs.princeton.edu/~appel/papers/memmgr.pdf
