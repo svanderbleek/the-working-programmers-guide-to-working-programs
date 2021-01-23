@@ -53,6 +53,7 @@ The language built will be called Student. The idea is what is the simplist lang
 ## Research
 
 * logic
+  * Foundational analysis of computation
   * Propositional with feedback https://en.wikipedia.org/wiki/Propositional_formula#Propositional_formula_with_%22feedback%22
   * https://math.stackexchange.com/questions/348379/why-is-propositional-logic-not-turing-complete
   * http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/Project-Oberon-the-next-step-of-the-N2T-Journey-td4029517.html
