@@ -52,6 +52,7 @@ The language built will be called Student. The idea is what is the simplist lang
 
 * logic
   * https://math.stackexchange.com/questions/348379/why-is-propositional-logic-not-turing-complete
+  * http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/Project-Oberon-the-next-step-of-the-N2T-Journey-td4029517.html
 * abstract machine
  * Categorical Abstract Machine
    * https://en.wikipedia.org/wiki/Categorical_abstract_machine
