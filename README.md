@@ -74,6 +74,8 @@ The language built will be called Student. The idea is what is the simplist lang
   * Microprocessor https://tiarkrompf.github.io/notes/?/dependent-types/
   * Dependent types https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/ 
   * resolution automated proof system https://rmarcus.info/blog/2015/09/02/vulcan.html
+* coq
+  * hardware dsl https://github.com/sifive/Kami
 * assembly
   * Typed assembly language https://en.wikipedia.org/wiki/Typed_assembly_language
 * verification
@@ -83,9 +85,9 @@ The language built will be called Student. The idea is what is the simplist lang
   * A Completely Verified Realistic Bootstrap Compiler
   * A Verified Compiler for an Impure Functional Language http://adam.chlipala.net/papers/ImpurePOPL10/ImpurePOPL10.pdf
   * A Certified Type-Preserving Compiler from Lambda Calculus to Assembly Language
-* rewrite
+* rewrite systems
   * On Constructor Rewrite Systems and the Lambda-Calculus
-* proof
+* theorem provers
   * Learning logic and proof with an Interactive Theorem Prover https://www.andrew.cmu.edu/user/avigad/Papers/learning_logic_and_proof.pdf
   * Towards a practical programming language based on dependent type theory
   
