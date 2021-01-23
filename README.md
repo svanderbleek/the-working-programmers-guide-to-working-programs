@@ -59,6 +59,7 @@ The language built will be called Student. The idea is what is the simplist lang
 
 * foundation
   * Foundational analysis of computation
+  * Evolving Algebras an attempt to discover semantics http://www.mit.edu/afs.new/sipb/user/golem/papers/898/asm-tutorial.pdf
   * Evolving algebras https://web.eecs.umich.edu/~gurevich/Opera/103.pdf
 * logic
   * Propositional with feedback https://en.wikipedia.org/wiki/Propositional_formula#Propositional_formula_with_%22feedback%22
@@ -103,6 +104,9 @@ The language built will be called Student. The idea is what is the simplist lang
   * hardware dsl https://github.com/sifive/Kami
 * assembly
   * Typed assembly language https://en.wikipedia.org/wiki/Typed_assembly_language
+* webassembly
+  * portability https://webassembly.org/docs/portability
+  * import https://webassembly.github.io/spec/core/syntax/modules.html
 * verification
   * Verified compilation on a verified processor
   * Verified Sequential Malloc/Free https://www.cs.princeton.edu/~appel/papers/memmgr.pdf
