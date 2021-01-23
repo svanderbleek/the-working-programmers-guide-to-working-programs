@@ -75,6 +75,7 @@ The language built will be called Student. The idea is what is the simplist lang
 * lambda calculus
   * LC Turing Machine https://www.cs.cmu.edu/~rwh/talks/cs50talk.pdf
   * Efficient Self-Interpretation in Lambda Calculus
+  * On the representation of data in lambda-calculus
   * Lambda -> Types https://crypto.stanford.edu/~blynn/lambda/
 * javascript
   * json and synthesis https://grgv.xyz/inductive_program_synthesis/
@@ -113,22 +114,30 @@ The language built will be called Student. The idea is what is the simplist lang
 
 Peice by peice we will actack the formal verification problem. 
 
-* machine level
+* hardware level
 * microprocessor level
+* machine level
 * the assembly level
 * the os level
+* abstract machine
 * the ide level
 
 This is a strategy for verifying deepspec guided by impelementation decisions. language exploration can result from this and we want self hosted tooling to support that.
 
-Proof covering code and the demonstration of verification is covered.
+Proof carrying code and the demonstration of verification is covered. Being able to exhibit proof carrying code that is checked indepdently is a strong sign of soundness.
 
 ## Hardware for constructive logic
 
+Instead of a Nand presentation in classical logic we should be able to use constructive logic with intuitionistic support, here we can talk about proof program correspance and type checking logic.
+
 * The core of each ATP-system is the inference machine which amounts to sort of a “microprocessor” for theorem proving Semantics–Based Translation Methods for Modal Logics
+  *  normal form transformation (NFT) which serves to translate arbitrary first order formulae into clause-form which is the preferred language of most inference machines
+  *  “logic morphisms” They basically aim at encoding semantical meta-knowledge for non-classical logics within the language of classical
+logic.
+  * Popular examples are the various resolution-based strategies [Rob65] as well as the connection-based methods like the extension-procedure
 
 ## Abstract Machine
 
-
+* The linear logic abstract machine https://reader.elsevier.com/reader/sd/pii/S1571066106001617?token=BDE50171214736DE16958B98A86E2B09769FD690ABD3B1695B11165B2AA2F6D3E302B47AB864E4F5A61852EB5C390B65
 
 ## Machine Language
