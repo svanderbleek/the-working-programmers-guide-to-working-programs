@@ -33,6 +33,8 @@ The language built will be called Student. The idea is what is the simplist lang
 * ml for the working programmer
 * software foundations
 * programming language fundamentals in agda
+* program logics for certified compiliers
+* certified programming with dependent types
 * concrete semantics
 * decision procedures
 * the calculus of computation
