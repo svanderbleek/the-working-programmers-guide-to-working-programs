@@ -55,7 +55,7 @@ The language built will be called Student. The idea is what is the simplist lang
    * https://en.wikipedia.org/wiki/Categorical_abstract_machine
    * Camel: An extension of the categorical abstract machine to compile functional/logic programs
    * categorical abstract machine with typechecking and proof search http://boxbase.org/entries/2020/apr/27/cam_mk2/
-  * The Linear Logical Abstract Machine
+   * The Linear Logical Abstract Machine https://reader.elsevier.com/reader/sd/pii/S1571066106001617?token=BDE50171214736DE16958B98A86E2B09769FD690ABD3B1695B11165B2AA2F6D3E302B47AB864E4F5A61852EB5C390B65
 * Autosubst https://www.ps.uni-saarland.de/Publications/documents/SchaeferEtAl_2015_Autosubst_-Reasoning.pdf
 * Human readable machine verifiable proofs for teaching constructive logic https://kilthub.cmu.edu/articles/journal_contribution/Human-Readable_Machine-Verifiable_Proofs_for_Teaching_Constructive_Logic/6606203
 * Advanced Topics in software verification https://www.cse.unsw.edu.au/~cs4161/
