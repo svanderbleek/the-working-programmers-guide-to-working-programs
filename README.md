@@ -126,7 +126,20 @@ The language built will be called Student. The idea is what is the simplist lang
 * smt https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
 * skolemization https://en.wikipedia.org/wiki/Skolem_normal_form
 
+## OS
+
+* what is most micro os
+
 ## Protocols
+
+* devices, io
+* packets why not
+* whatever -> upd -> tcp -> http whatever
+
+## Applications
+
+* desk ide
+* md processor
 
 ## Networked Applications
 
