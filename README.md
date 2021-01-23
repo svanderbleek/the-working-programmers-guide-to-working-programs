@@ -2,7 +2,7 @@
 
 "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it" - Dijkstra
 
-What if nand2tetris met deepspec? And took the browser to be the OS, started with webassembly, built a language with a similar approach Rescript uses, built a quick ide with language server protocol support, used ideas like turnstile for tooling around building out language features, provided interactive theorem proving style programming features, and more. The idea is to to bootstrap a learning environment for Software Verification or Programming Language Foundations in Agda, with everything as simple as possible to demonstrate the concepts, and crucially be able to chain verification using a proof first approach.
+What if nand2tetris met deepspec? And took the browser to be the OS, started with webassembly, built a language with a similar approach Rescript uses, built a quick ide with language server protocol support, used ideas like turnstile for tooling around building out language features, provided interactive theorem proving style programming features, and more. The idea is to to bootstrap a learning environment for Software Verification level material, with everything as simple as possible to demonstrate the concepts, and crucially be able to chain verification ala deepspec.
 
 Two major goals are
 
@@ -11,7 +11,7 @@ Two major goals are
 
 The target audience is working programmers so there is no teaching the basics of writing programs. All introduced concepts are fully explained by building programs. Nothing done here is for ideological purity all choices are made to maximize the simple presentation of hard concepts.
 
-The language built will be called Student. The idea is what is the simplist language that allows us to prove anything useful in the verification chain. From there we wish to add extensions to be able to prove more complicated things while integrating interactivity into a minimal in browser IDE running on our OS.
+The language built will be called Student. The idea is what is the simplist language that allows us to prove anything useful in the verification chain. From there we wish to add extensions to be able to prove more complicated things while integrating interactivity into a minimal in browser IDE running on the browser OS.
 
 ## Influences
 
