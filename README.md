@@ -9,7 +9,7 @@ Two major goals are
 * demonstrate the joy in the proof based approach to programming
 * demonstrate the impact integrated tooling can have on productivity
 
-The target audience is working programmers so there is no teaching the basics of writing programs or the need for logic and circuts. The idea will be to skip ahead to the Turing Machine stage and start from there. All introduced concepts are fully explained by building programs. Nothing done here is for ideological purity all choices are made to maximize the simple presentation of hard concepts.
+The target audience is working programmers so there is no teaching the basics of writing programs. All introduced concepts are fully explained by building programs. Nothing done here is for ideological purity all choices are made to maximize the simple presentation of hard concepts.
 
 The language built will be called Student. The idea is what is the simplist language that allows us to prove anything useful in the verification chain. From there we wish to add extensions to be able to prove more complicated things while integrating interactivity into a minimal in browser IDE running on our OS.
 
@@ -122,6 +122,7 @@ The language built will be called Student. The idea is what is the simplist lang
 
 Peice by peice we will actack the formal verification problem. 
 
+* logic level
 * hardware level
 * microprocessor level
 * machine level
