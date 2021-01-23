@@ -32,6 +32,7 @@ The language built will be called Student. The idea is what is the simplist lang
 * concrete semantics
 * decision procedures
 * the calculus of computation
+* type theory and formal proof
 * turnstile
 * twelf
 * tutch
@@ -60,6 +61,7 @@ The language built will be called Student. The idea is what is the simplist lang
   * Typed Lisp https://alhassy.github.io/TypedLisp.html
   * scheme to depednent type theory https://github.com/gbaz/mess
 * lambda calculus
+  * LC Turing Machine https://www.cs.cmu.edu/~rwh/talks/cs50talk.pdf
   * Efficient Self-Interpretation in Lambda Calculus
   * Lambda -> Types https://crypto.stanford.edu/~blynn/lambda/
   * Compilers -> HOL https://crypto.stanford.edu/~blynn/compiler/
@@ -76,6 +78,10 @@ The language built will be called Student. The idea is what is the simplist lang
   * Verified Sequential Malloc/Free https://www.cs.princeton.edu/~appel/papers/memmgr.pdf
   * VST-Floyd: A separation logic tool to verify correctness of C programs https://www.cs.princeton.edu/~appel/papers/VST-Floyd.pdf
   * A Completely Verified Realistic Bootstrap Compiler
+* rewrite
+  * On Constructor Rewrite Systems and the Lambda-Calculus
+  
+  
 ## Algorithms
 
 * union find https://en.wikipedia.org/wiki/Disjoint-set_data_structure
