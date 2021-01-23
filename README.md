@@ -50,7 +50,10 @@ The language built will be called Student. The idea is what is the simplist lang
 
 ## Research
 
-* Categorical Abstract Machine https://en.wikipedia.org/wiki/Categorical_abstract_machine
+* Categorical Abstract Machine
+  * https://en.wikipedia.org/wiki/Categorical_abstract_machine
+  * Camel: An extension of the categorical abstract machine to compile functional/logic programs
+  * categorical abstract machine with typechecking and proof search http://boxbase.org/entries/2020/apr/27/cam_mk2/
 * Autosubst https://www.ps.uni-saarland.de/Publications/documents/SchaeferEtAl_2015_Autosubst_-Reasoning.pdf
 * Human readable machine verifiable proofs for teaching constructive logic https://kilthub.cmu.edu/articles/journal_contribution/Human-Readable_Machine-Verifiable_Proofs_for_Teaching_Constructive_Logic/6606203
 * Advanced Topics in software verification https://www.cse.unsw.edu.au/~cs4161/
@@ -79,6 +82,7 @@ The language built will be called Student. The idea is what is the simplist lang
   * VST-Floyd: A separation logic tool to verify correctness of C programs https://www.cs.princeton.edu/~appel/papers/VST-Floyd.pdf
   * A Completely Verified Realistic Bootstrap Compiler
   * A Verified Compiler for an Impure Functional Language http://adam.chlipala.net/papers/ImpurePOPL10/ImpurePOPL10.pdf
+  * A Certified Type-Preserving Compiler from Lambda Calculus to Assembly Language
 * rewrite
   * On Constructor Rewrite Systems and the Lambda-Calculus
   
