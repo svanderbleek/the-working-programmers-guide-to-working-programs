@@ -13,7 +13,7 @@ The target audience is working programmers so there is no teaching the basics of
 
 The language built will be called Student. The idea is what is the simplist language that allows us to prove anything useful in the verification chain. From there we wish to add extensions to be able to prove more complicated things while integrating interactivity into a minimal in browser IDE running on our OS.
 
-## Inspiration
+## Influences
 
 * nand2tetris
 * deepspec 
@@ -40,6 +40,8 @@ The language built will be called Student. The idea is what is the simplist lang
 * tutch
 * carnap
 * webassembly
+* binaryen
+* browsix
 * language server protocol
 * haskell
 * idris
@@ -52,6 +54,7 @@ The language built will be called Student. The idea is what is the simplist lang
 
 ## Research
 
+This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
 * foundation
   * Foundational analysis of computation
