@@ -13,6 +13,8 @@ The target audience is working programmers so there is no teaching the basics of
 
 The big decision is how to do the hardware. I'm not sure if circuits are the right place to start. Looking at nand2tetris course materials everything is based on simulators. So it seems being a simulator creates the deployment. I need to read through nand2tetris to see if this is the case or if the code ever jumps outside the simulation and targets actual machine instructions (wouldn't do that, probably runs on JVM? Targeting JVM bytecode could be seen as the same idea).
 
+The whole thing should be portable to any real or idealized computer so that is where to start from. The question then becomes what to port to to make building and explaining this thing easy? Probably not something I build then, why not just port to a nice simulator that does verification? Then build a oberon style os on top. then build xi+emacs+vim and turnstile.
+
 The language built will be called Student. The idea is what is the simplist language that allows us to prove anything useful in the verification chain. From there we wish to add extensions to be able to prove more complicated things while integrating interactivity into a minimal in browser IDE running on our OS.
 
 ## Inspiration
