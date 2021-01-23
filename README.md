@@ -58,8 +58,15 @@ The language built will be called Student. The idea is what is the simplist lang
 * Human readable machine verifiable proofs for teaching constructive logic https://kilthub.cmu.edu/articles/journal_contribution/Human-Readable_Machine-Verifiable_Proofs_for_Teaching_Constructive_Logic/6606203
 * Advanced Topics in software verification https://www.cse.unsw.edu.au/~cs4161/
 * Advanced operating systems http://www.cse.unsw.edu.au/~cs9242/current/
-* python
+* microprocessor 
+  * To Reinvent microprocessor https://medium.com/@veedrac/to-reinvent-the-processor-671139a4a034
+  * lets build a microprocesor javascript https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/ 
+* parser
+  * Parser https://tiarkrompf.github.io/notes/?/just-write-the-parser/ 
+* Provers
   * Pedagogical first-order prover in Python https://github.com/eprover/PyRes
+  * Compilers -> HOL https://crypto.stanford.edu/~blynn/compiler/
+  * resolution automated proof system https://rmarcus.info/blog/2015/09/02/vulcan.html
 * lisp
   * Typed Lisp https://alhassy.github.io/TypedLisp.html
   * scheme to depednent type theory https://github.com/gbaz/mess
@@ -67,14 +74,10 @@ The language built will be called Student. The idea is what is the simplist lang
   * LC Turing Machine https://www.cs.cmu.edu/~rwh/talks/cs50talk.pdf
   * Efficient Self-Interpretation in Lambda Calculus
   * Lambda -> Types https://crypto.stanford.edu/~blynn/lambda/
-  * Compilers -> HOL https://crypto.stanford.edu/~blynn/compiler/
 * javascript
   * json and synthesis https://grgv.xyz/inductive_program_synthesis/
-  * Parser https://tiarkrompf.github.io/notes/?/just-write-the-parser/ 
-  * Microprocessor https://tiarkrompf.github.io/notes/?/dependent-types/
-  * Dependent types https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/ 
-  * resolution automated proof system https://rmarcus.info/blog/2015/09/02/vulcan.html
-* coq
+  * Dependent types https://tiarkrompf.github.io/notes/?/dependent-types/
+* hardware
   * hardware dsl https://github.com/sifive/Kami
 * assembly
   * Typed assembly language https://en.wikipedia.org/wiki/Typed_assembly_language
@@ -90,7 +93,6 @@ The language built will be called Student. The idea is what is the simplist lang
 * theorem provers
   * Learning logic and proof with an Interactive Theorem Prover https://www.andrew.cmu.edu/user/avigad/Papers/learning_logic_and_proof.pdf
   * Towards a practical programming language based on dependent type theory
-  
   
 ## Algorithms
 
