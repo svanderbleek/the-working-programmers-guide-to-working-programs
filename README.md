@@ -85,6 +85,9 @@ The language built will be called Student. The idea is what is the simplist lang
   * A Certified Type-Preserving Compiler from Lambda Calculus to Assembly Language
 * rewrite
   * On Constructor Rewrite Systems and the Lambda-Calculus
+* proof
+  * Learning logic and proof with an Interactive Theorem Prover https://www.andrew.cmu.edu/user/avigad/Papers/learning_logic_and_proof.pdf
+  
   
 ## Algorithms
 
