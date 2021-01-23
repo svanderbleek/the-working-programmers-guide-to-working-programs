@@ -11,6 +11,8 @@ Two major goals are
 
 The target audience is working programmers so there is no teaching the basics of writing programs. All introduced concepts are fully explained by building programs. Nothing done here is for ideological purity all choices are made to maximize the simple presentation of hard concepts.
 
+The big decision is how to do the hardware. I'm not sure if circuits are the right place to start. Looking at nand2tetris course materials everything is based on simulators. So it seems being a simulator creates the deployment. I need to read through nand2tetris to see if this is the case or if the code ever jumps outside the simulation and targets actual machine instructions (wouldn't do that, probably runs on JVM? Targeting JVM bytecode could be seen as the same idea).
+
 The language built will be called Student. The idea is what is the simplist language that allows us to prove anything useful in the verification chain. From there we wish to add extensions to be able to prove more complicated things while integrating interactivity into a minimal in browser IDE running on our OS.
 
 ## Inspiration
@@ -51,6 +53,7 @@ The language built will be called Student. The idea is what is the simplist lang
 ## Research
 
 * logic
+  * Propositional with feedback https://en.wikipedia.org/wiki/Propositional_formula#Propositional_formula_with_%22feedback%22
   * https://math.stackexchange.com/questions/348379/why-is-propositional-logic-not-turing-complete
   * http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/Project-Oberon-the-next-step-of-the-N2T-Journey-td4029517.html
 * abstract machine
