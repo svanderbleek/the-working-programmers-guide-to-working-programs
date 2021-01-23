@@ -81,7 +81,6 @@ The language built will be called Student. The idea is what is the simplist lang
 * rewrite
   * On Constructor Rewrite Systems and the Lambda-Calculus
   
-  
 ## Algorithms
 
 * union find https://en.wikipedia.org/wiki/Disjoint-set_data_structure
