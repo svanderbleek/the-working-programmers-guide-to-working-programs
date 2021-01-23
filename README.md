@@ -93,6 +93,10 @@ The language built will be called Student. The idea is what is the simplist lang
 * theorem provers
   * Learning logic and proof with an Interactive Theorem Prover https://www.andrew.cmu.edu/user/avigad/Papers/learning_logic_and_proof.pdf
   * Towards a practical programming language based on dependent type theory
+  * Learning logic and proof with an Interactive Theorem Prover https://www.andrew.cmu.edu/user/avigad/Papers/learning_logic_and_proof.pdf
+  * Towards a practical programming language based on dependent type theory
+  * Parametric Higher-Order Abstract Syntax for Mechanized Semantics http://adam.chlipala.net/papers/PhoasICFP08/
+  * Implementing Certified Programming Language Tools in Dependent Type Theory http://adam.chlipala.net/papers/ChlipalaPhD/
   
 ## Algorithms
 
