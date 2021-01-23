@@ -50,10 +50,12 @@ The language built will be called Student. The idea is what is the simplist lang
 
 ## Research
 
-* Categorical Abstract Machine
-  * https://en.wikipedia.org/wiki/Categorical_abstract_machine
-  * Camel: An extension of the categorical abstract machine to compile functional/logic programs
-  * categorical abstract machine with typechecking and proof search http://boxbase.org/entries/2020/apr/27/cam_mk2/
+* abstract machine
+ * Categorical Abstract Machine
+   * https://en.wikipedia.org/wiki/Categorical_abstract_machine
+   * Camel: An extension of the categorical abstract machine to compile functional/logic programs
+   * categorical abstract machine with typechecking and proof search http://boxbase.org/entries/2020/apr/27/cam_mk2/
+  * The Linear Logical Abstract Machine
 * Autosubst https://www.ps.uni-saarland.de/Publications/documents/SchaeferEtAl_2015_Autosubst_-Reasoning.pdf
 * Human readable machine verifiable proofs for teaching constructive logic https://kilthub.cmu.edu/articles/journal_contribution/Human-Readable_Machine-Verifiable_Proofs_for_Teaching_Constructive_Logic/6606203
 * Advanced Topics in software verification https://www.cse.unsw.edu.au/~cs4161/
@@ -104,3 +106,29 @@ The language built will be called Student. The idea is what is the simplist lang
 * unification https://en.wikipedia.org/wiki/Unification_(computer_science)
 * smt https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
 * skolemization https://en.wikipedia.org/wiki/Skolem_normal_form
+
+# Content
+
+## The battle ahead
+
+Peice by peice we will actack the formal verification problem. 
+
+* machine level
+* microprocessor level
+* the assembly level
+* the os level
+* the ide level
+
+This is a strategy for verifying deepspec guided by impelementation decisions. language exploration can result from this and we want self hosted tooling to support that.
+
+Proof covering code and the demonstration of verification is covered.
+
+## Hardware for constructive logic
+
+* The core of each ATP-system is the inference machine which amounts to sort of a “microprocessor” for theorem proving Semantics–Based Translation Methods for Modal Logics
+
+## Abstract Machine
+
+
+
+## Machine Language
