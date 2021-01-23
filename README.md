@@ -90,6 +90,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * Towards a practical programming language based on dependent type theory
   * Parametric Higher-Order Abstract Syntax for Mechanized Semantics http://adam.chlipala.net/papers/PhoasICFP08/
   * Implementing Certified Programming Language Tools in Dependent Type Theory http://adam.chlipala.net/papers/ChlipalaPhD/
+* primitive recursion
+  * The efficiency of primitive recursive functions: A programmer's view https://www.sciencedirect.com/science/article/pii/S0304397515003539
 * lisp
   * Typed Lisp https://alhassy.github.io/TypedLisp.html
   * scheme to depednent type theory https://github.com/gbaz/mess
