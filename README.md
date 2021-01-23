@@ -81,6 +81,7 @@ The language built will be called Student. The idea is what is the simplist lang
   * Efficient Self-Interpretation in Lambda Calculus
   * On the representation of data in lambda-calculus
   * Lambda -> Types https://crypto.stanford.edu/~blynn/lambda/
+  * Mikrokosmos Programming on the λ-calculus https://mroman42.github.io/mikrokosmos/tutorial.html
 * javascript
   * json and synthesis https://grgv.xyz/inductive_program_synthesis/
   * Dependent types https://tiarkrompf.github.io/notes/?/dependent-types/
