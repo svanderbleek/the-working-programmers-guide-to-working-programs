@@ -16,6 +16,7 @@ The language built will be called Student with Desk the ide and Room the os.
 ## Influences
 
 * nand2tetris
+* Digital Circuit Design for Computer Science Students: An Introductory Textbook
 * deepspec 
 * rems
 * sel4
