@@ -78,6 +78,7 @@ The language built will be called Student. The idea is what is the simplist lang
   * Verified Sequential Malloc/Free https://www.cs.princeton.edu/~appel/papers/memmgr.pdf
   * VST-Floyd: A separation logic tool to verify correctness of C programs https://www.cs.princeton.edu/~appel/papers/VST-Floyd.pdf
   * A Completely Verified Realistic Bootstrap Compiler
+  * A Verified Compiler for an Impure Functional Language http://adam.chlipala.net/papers/ImpurePOPL10/ImpurePOPL10.pdf
 * rewrite
   * On Constructor Rewrite Systems and the Lambda-Calculus
   
