@@ -17,8 +17,9 @@ The language built will be called Student with Desk the ide and Room the os.
 
 * nand2tetris
 * Digital Circuit Design for Computer Science Students: An Introductory Textbook
-* deepspec 
+* deepspec
 * rems
+* sail
 * sel4
 * the little typer
 * the little prover
@@ -58,6 +59,8 @@ The language built will be called Student with Desk the ide and Room the os.
 
 This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
+* instruction semantics
+  * https://www.cl.cam.ac.uk/~pes20/sail/
 * nand2fpga
   * https://gitlab.com/x653/nand2tetris-fpga/
 * rems https://www.cl.cam.ac.uk/~pes20/rems/
