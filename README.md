@@ -123,6 +123,12 @@ The language built will be called Student. The idea is what is the simplist lang
 * smt https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
 * skolemization https://en.wikipedia.org/wiki/Skolem_normal_form
 
+## Protocols
+
+## Networked Applications
+
+* Irma https://news.ycombinator.com/item?id=25881954
+
 # Content
 
 ## The battle ahead
