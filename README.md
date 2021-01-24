@@ -63,6 +63,8 @@ The language built will be called Student with Desk the ide and Room the os.
 * emacs
 * xi
 * vimium
+* reduceron
+* fpga
 
 ## Research
 
@@ -86,8 +88,6 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 * interaction trees https://github.com/DeepSpec/InteractionTrees
 * instruction semantics
   * https://www.cl.cam.ac.uk/~pes20/sail/
-* nand2fpga
-  * https://gitlab.com/x653/nand2tetris-fpga/
 * rems https://www.cl.cam.ac.uk/~pes20/rems/
 * deepspec https://deepspec.org/main
 * foundation
@@ -187,7 +187,11 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * https://cacm.acm.org/magazines/2019/6/237005-heterogeneous-von-neumann-dataflow-microprocessors/fulltext
 * risc
   * A Practical Methodology for the Formal Verification of RISC Processors https://dl.acm.org/doi/10.1023/A%3A1008622002590
-  
+* fpga
+  * reduceron https://github.com/tommythorn/Reduceron
+  * https://gitlab.com/x653/nand2tetris-fpga/
+
+
 ## Algorithms
 
 * union find https://en.wikipedia.org/wiki/Disjoint-set_data_structure
