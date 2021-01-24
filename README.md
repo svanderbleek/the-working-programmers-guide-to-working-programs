@@ -188,6 +188,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * koika https://github.com/mit-plv/koika
 * microarchitecture
   * http://goto.ucsd.edu/~rjhala/papers/microarchitectural_verification_by_compositional_model_checking.html
+  * Automated Formal Verification of Processors Based on Architectural Models
 * dataflow architecture
   * https://en.wikipedia.org/wiki/Dataflow_architecture
   * http://csg.csail.mit.edu/pubs/memos/Memo-261-1/Memo-261-2.pdf
