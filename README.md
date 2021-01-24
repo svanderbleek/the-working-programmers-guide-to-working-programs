@@ -165,6 +165,9 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * ironclad https://www.microsoft.com/en-us/research/project/ironclad/
 * verilog
   * Verilog development and verification project for HOL4 https://github.com/CakeML/hardware
+* bluespec
+  * Formal Verification of Hardware Synthesis https://arxiv.org/abs/1301.4779
+  * the essence of bluespec https://dl.acm.org/doi/abs/10.1145/3385412.3385965
   
 ## Algorithms
 
