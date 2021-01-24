@@ -92,7 +92,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * Verified compilation on a verified processor
   * Verified Sequential Malloc/Free https://www.cs.princeton.edu/~appel/papers/memmgr.pdf
   * VST-Floyd: A separation logic tool to verify correctness of C programs https://www.cs.princeton.edu/~appel/papers/VST-Floyd.pdf
-  * A Completely Verified Realistic Bootstrap Compiler
+  * A Completely Verified Realistic Bootstrap Compiler A Completely Verified Realistic Bootstrap Compiler
   * A Verified Compiler for an Impure Functional Language http://adam.chlipala.net/papers/ImpurePOPL10/ImpurePOPL10.pdf
   * A Certified Type-Preserving Compiler from Lambda Calculus to Assembly Language
   * The Next 700 Compiler Correctness Theorems http://www.ccs.neu.edu/home/amal/papers/next700ccc.pdf
