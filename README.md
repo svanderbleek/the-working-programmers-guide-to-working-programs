@@ -201,6 +201,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * https://cacm.acm.org/magazines/2019/6/237005-heterogeneous-von-neumann-dataflow-microprocessors/fulltext
 * risc
   * A Practical Methodology for the Formal Verification of RISC Processors https://dl.acm.org/doi/10.1023/A%3A1008622002590
+  * risc semantics in haskell https://github.com/mit-plv/riscv-semantics
 * fpga
   * reduceron https://github.com/tommythorn/Reduceron
   * https://gitlab.com/x653/nand2tetris-fpga/
