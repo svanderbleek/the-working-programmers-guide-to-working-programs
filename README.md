@@ -39,6 +39,10 @@ The language built will be called Student with Desk the ide and Room the os.
 * the calculus of computation
 * type theory and formal proof
 * turnstile
+* hol
+* coq
+* dedukti
+* andromeda
 * twelf
 * tutch
 * carnap
@@ -145,6 +149,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * Towards a practical programming language based on dependent type theory
   * Parametric Higher-Order Abstract Syntax for Mechanized Semantics http://adam.chlipala.net/papers/PhoasICFP08/
   * Implementing Certified Programming Language Tools in Dependent Type Theory http://adam.chlipala.net/papers/ChlipalaPhD/
+* hol
+  * Mechanizing Programming Logics in Higher Order Logic https://www.cl.cam.ac.uk/archive/mjcg/Banffpaper.pdf
   
 ## Algorithms
 
