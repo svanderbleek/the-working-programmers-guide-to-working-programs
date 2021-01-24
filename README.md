@@ -179,6 +179,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * http://csg.csail.mit.edu/pubs/memos/Memo-261-1/Memo-261-2.pdf
   * j machine https://en.wikipedia.org/wiki/J%E2%80%93Machine
   * https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=onur-740-fall13-module5.2.1-dataflow-part1.pdf
+  * Naiad: a timely dataflow system https://dl.acm.org/doi/10.1145/2517349.2522738
   
   
 ## Algorithms
