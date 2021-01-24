@@ -155,6 +155,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * Mechanizing Programming Logics in Higher Order Logic https://www.cl.cam.ac.uk/archive/mjcg/Banffpaper.pdf
 * os 
   * kit http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=CF1415D8926E00366C310FE5FC6D40A5?doi=10.1.1.42.3293&rep=rep1&type=pdf
+  * flint http://flint.cs.yale.edu/flint/index.html
+  * certikos http://flint.cs.yale.edu/certikos/
 * vdm
   * proof in vdm https://www.overturetool.org/publications/books/proof-in-vdm/ProofinVDM.pdf
   
