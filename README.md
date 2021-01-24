@@ -82,6 +82,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 
 * high level
   * High-level verification of system designs
+* circuit
+  * constructing correct circuits http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.97.2678
 * One Instruction Set
   * https://www.cs.drexel.edu/~bls96/oisc/
 * Compiler Verification
