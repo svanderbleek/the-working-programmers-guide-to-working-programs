@@ -37,6 +37,7 @@ Desigining a computation system able to execute programs stored in memory on fin
 * the little prover
 * software abstractions
 * tla+
+* verisoft
 * handbook of practical logic and automated reasoning
 * fundamental proof methods in computer science
 * rescript
@@ -209,8 +210,11 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * https://gitlab.com/x653/nand2tetris-fpga/
 * isa
   * End-to-End Verification of ARM® Processors with ISA-Formal https://alastairreid.github.io/papers/cav2016_isa_formal.pdf
-* stack
+* kit
   * kit and the short stack https://link.springer.com/article/10.1007%2FBF00243135
+* verisoft
+  * Model Stack for the Pervasive Verification of a Microkernel-based Operating System
+  * Formal Verification of a Small Real-Time Operating System
 
 ## Algorithms
 
