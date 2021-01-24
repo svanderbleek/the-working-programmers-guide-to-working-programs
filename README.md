@@ -192,6 +192,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 * microarchitecture
   * http://goto.ucsd.edu/~rjhala/papers/microarchitectural_verification_by_compositional_model_checking.html
   * Automated Formal Verification of Processors Based on Architectural Models
+  * Model Stack for the Pervasive Verification of a Microkernel-based Operating System?
 * dataflow architecture
   * https://en.wikipedia.org/wiki/Dataflow_architecture
   * http://csg.csail.mit.edu/pubs/memos/Memo-261-1/Memo-261-2.pdf
@@ -210,7 +211,6 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * End-to-End Verification of ARM® Processors with ISA-Formal https://alastairreid.github.io/papers/cav2016_isa_formal.pdf
 * stack
   * kit and the short stack https://link.springer.com/article/10.1007%2FBF00243135
-
 
 ## Algorithms
 
