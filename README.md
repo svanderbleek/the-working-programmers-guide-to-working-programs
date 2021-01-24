@@ -156,6 +156,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * Dependent types https://tiarkrompf.github.io/notes/?/dependent-types/
 * hardware
   * hardware dsl https://github.com/sifive/Kami
+  * Kami: a platform for high-level parametric hardware specification and its modular verification https://dl.acm.org/doi/abs/10.1145/3110268
 * assembly
   * Typed assembly language https://en.wikipedia.org/wiki/Typed_assembly_language
   * from system f to typed assembly
@@ -195,7 +196,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 * microarchitecture
   * http://goto.ucsd.edu/~rjhala/papers/microarchitectural_verification_by_compositional_model_checking.html
   * Automated Formal Verification of Processors Based on Architectural Models
-  * Model Stack for the Pervasive Verification of a Microkernel-based Operating System?
+  * Model Stack for the Pervasive Verification of a Microkernel-based Operating System
+  * Verification-Aware Microprocessor Design
 * dataflow architecture
   * https://en.wikipedia.org/wiki/Dataflow_architecture
   * http://csg.csail.mit.edu/pubs/memos/Memo-261-1/Memo-261-2.pdf
@@ -213,6 +215,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 * isa
   * End-to-End Verification of ARM® Processors with ISA-Formal https://alastairreid.github.io/papers/cav2016_isa_formal.pdf
 * verification stack
+  * Integrating Formal Verification into an Advanced Computer Architecture Course
   * kit and the short stack https://link.springer.com/article/10.1007%2FBF00243135
   * Model Stack for the Pervasive Verification of a Microkernel-based Operating System
   * Formal Verification of a Small Real-Time Operating System
