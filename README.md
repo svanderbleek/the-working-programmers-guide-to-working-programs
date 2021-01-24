@@ -78,7 +78,9 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * A Verified Compiler for an Impure Functional Language http://adam.chlipala.net/papers/ImpurePOPL10/ImpurePOPL10.pdf
   * A Certified Type-Preserving Compiler from Lambda Calculus to Assembly Language
   * The Next 700 Compiler Correctness Theorems http://www.ccs.neu.edu/home/amal/papers/next700ccc.pdf
+* classics 
   * correctness of a compiler for arithmetic http://jmc.stanford.edu/articles/mcpain/mcpain.pdf
+  * towards compiler implementation correctness proofs 10.1145/5397.30847
 * Verification Check
   * https://en.wikipedia.org/wiki/Verification_condition_generator
 * interaction trees https://github.com/DeepSpec/InteractionTrees
