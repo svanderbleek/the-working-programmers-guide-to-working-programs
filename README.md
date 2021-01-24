@@ -25,6 +25,7 @@ The language built will be called Student with Desk the ide and Room the os.
 * certikos
 * ironclad
 * cakeml
+* koika
 * the little typer
 * the little prover
 * software abstractions
@@ -168,6 +169,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 * bluespec
   * Formal Verification of Hardware Synthesis https://arxiv.org/abs/1301.4779
   * the essence of bluespec https://dl.acm.org/doi/abs/10.1145/3385412.3385965
+  * koika https://github.com/mit-plv/koika
   
 ## Algorithms
 
