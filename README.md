@@ -77,6 +77,9 @@ Desigining a computation system able to execute programs stored in memory on fin
 
 This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
+
+* One Instruction Set
+  * https://www.cs.drexel.edu/~bls96/oisc/
 * Compiler Verification
   * A Minimalistic Verified Bootstrapped Compiler http://www.cse.chalmers.se/~myreen/cpp2021-bootstrap-myreen.pdf
   * Compositional CompCert https://www.cs.princeton.edu/~appel/papers/compcomp.pdf
