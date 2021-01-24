@@ -59,7 +59,7 @@ The language built will be called Student with Desk the ide and Room the os.
 
 This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
-* compiler verification
+* Compiler Verification
   * Compositional CompCert https://www.cs.princeton.edu/~appel/papers/compcomp.pdf
   * Verified compilation on a verified processor
   * Verified Sequential Malloc/Free https://www.cs.princeton.edu/~appel/papers/memmgr.pdf
@@ -69,6 +69,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * A Certified Type-Preserving Compiler from Lambda Calculus to Assembly Language
   * The Next 700 Compiler Correctness Theorems http://www.ccs.neu.edu/home/amal/papers/next700ccc.pdf
   * correctness of a compiler for arithmetic http://jmc.stanford.edu/articles/mcpain/mcpain.pdf
+* Verification Check
+  * https://en.wikipedia.org/wiki/Verification_condition_generator
 * interaction trees https://github.com/DeepSpec/InteractionTrees
 * instruction semantics
   * https://www.cl.cam.ac.uk/~pes20/sail/
