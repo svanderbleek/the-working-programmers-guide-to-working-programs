@@ -17,6 +17,7 @@ The language built will be called Student with Desk the ide and Room the os.
 
 * nand2tetris
 * Digital Circuit Design for Computer Science Students: An Introductory Textbook
+* proof in vdm
 * deepspec
 * rems
 * sail
@@ -153,6 +154,9 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * Mechanizing Programming Logics in Higher Order Logic https://www.cl.cam.ac.uk/archive/mjcg/Banffpaper.pdf
 * os 
   * kit http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=CF1415D8926E00366C310FE5FC6D40A5?doi=10.1.1.42.3293&rep=rep1&type=pdf
+* vdm
+  * proof in vdm https://www.overturetool.org/publications/books/proof-in-vdm/ProofinVDM.pdf
+  
 ## Algorithms
 
 * union find https://en.wikipedia.org/wiki/Disjoint-set_data_structure
