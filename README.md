@@ -175,6 +175,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * Formal Verification of Hardware Synthesis https://arxiv.org/abs/1301.4779
   * the essence of bluespec https://dl.acm.org/doi/abs/10.1145/3385412.3385965
   * koika https://github.com/mit-plv/koika
+* microarchitecture
+  * http://goto.ucsd.edu/~rjhala/papers/microarchitectural_verification_by_compositional_model_checking.html
 * dataflow architecture
   * https://en.wikipedia.org/wiki/Dataflow_architecture
   * http://csg.csail.mit.edu/pubs/memos/Memo-261-1/Memo-261-2.pdf
