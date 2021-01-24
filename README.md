@@ -126,6 +126,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * hardware dsl https://github.com/sifive/Kami
 * assembly
   * Typed assembly language https://en.wikipedia.org/wiki/Typed_assembly_language
+  * from system f to typed assembly
+  * proof theory for low level code http://www.riec.tohoku.ac.jp/~ohori/research/LogicalMachineRevOct2005.pdf
 * webassembly
   * portability https://webassembly.org/docs/portability
   * import https://webassembly.github.io/spec/core/syntax/modules.html
