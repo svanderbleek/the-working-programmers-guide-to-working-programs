@@ -32,6 +32,7 @@ Desigining a computation system able to execute programs stored in memory on fin
 * ironclad
 * cakeml
 * koika
+* kit
 * the little typer
 * the little prover
 * software abstractions
@@ -207,6 +208,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * https://gitlab.com/x653/nand2tetris-fpga/
 * isa
   * End-to-End Verification of ARM® Processors with ISA-Formal https://alastairreid.github.io/papers/cav2016_isa_formal.pdf
+* stack
+  * kit and the short stack https://link.springer.com/article/10.1007%2FBF00243135
 
 
 ## Algorithms
