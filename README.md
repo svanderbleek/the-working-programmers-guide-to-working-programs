@@ -118,6 +118,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * On the representation of data in lambda-calculus
   * Lambda -> Types https://crypto.stanford.edu/~blynn/lambda/
   * Mikrokosmos Programming on the λ-calculus https://mroman42.github.io/mikrokosmos/tutorial.html
+  * the mechanical evaluation of expressions https://www.cs.cmu.edu/afs/cs/user/crary/www/819-f09/Landin64.pdf
 * javascript
   * json and synthesis https://grgv.xyz/inductive_program_synthesis/
   * Dependent types https://tiarkrompf.github.io/notes/?/dependent-types/
