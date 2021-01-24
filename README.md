@@ -59,6 +59,16 @@ The language built will be called Student with Desk the ide and Room the os.
 
 This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
+* compiler verification
+  * Compositional CompCert https://www.cs.princeton.edu/~appel/papers/compcomp.pdf
+  * Verified compilation on a verified processor
+  * Verified Sequential Malloc/Free https://www.cs.princeton.edu/~appel/papers/memmgr.pdf
+  * VST-Floyd: A separation logic tool to verify correctness of C programs https://www.cs.princeton.edu/~appel/papers/VST-Floyd.pdf
+  * A Completely Verified Realistic Bootstrap Compiler
+  * A Verified Compiler for an Impure Functional Language http://adam.chlipala.net/papers/ImpurePOPL10/ImpurePOPL10.pdf
+  * A Certified Type-Preserving Compiler from Lambda Calculus to Assembly Language
+  * The Next 700 Compiler Correctness Theorems http://www.ccs.neu.edu/home/amal/papers/next700ccc.pdf
+  * correctness of a compiler for arithmetic http://jmc.stanford.edu/articles/mcpain/mcpain.pdf
 * interaction trees https://github.com/DeepSpec/InteractionTrees
 * instruction semantics
   * https://www.cl.cam.ac.uk/~pes20/sail/
@@ -121,15 +131,6 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * tooling https://github.com/WebAssembly/binaryen
   * os https://browsix.org/
   * deepspec https://pldi20.sigplan.org/details/rems-deepspec-2020/11/-WebAssembly-sequential-and-concurrent-semantics
-* verification
-  * Verified compilation on a verified processor
-  * Verified Sequential Malloc/Free https://www.cs.princeton.edu/~appel/papers/memmgr.pdf
-  * VST-Floyd: A separation logic tool to verify correctness of C programs https://www.cs.princeton.edu/~appel/papers/VST-Floyd.pdf
-  * A Completely Verified Realistic Bootstrap Compiler
-  * A Verified Compiler for an Impure Functional Language http://adam.chlipala.net/papers/ImpurePOPL10/ImpurePOPL10.pdf
-  * A Certified Type-Preserving Compiler from Lambda Calculus to Assembly Language
-  * The Next 700 Compiler Correctness Theorems http://www.ccs.neu.edu/home/amal/papers/next700ccc.pdf
-  * correctness of a compiler for arithmetic http://jmc.stanford.edu/articles/mcpain/mcpain.pdf
 * rewrite systems
   * On Constructor Rewrite Systems and the Lambda-Calculus
 * theorem provers
