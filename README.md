@@ -23,6 +23,8 @@ The language built will be called Student with Desk the ide and Room the os.
 * sail
 * sel4
 * certikos
+* ironclad
+* cakeml
 * the little typer
 * the little prover
 * software abstractions
@@ -161,6 +163,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * proof in vdm https://www.overturetool.org/publications/books/proof-in-vdm/ProofinVDM.pdf
 * system
   * ironclad https://www.microsoft.com/en-us/research/project/ironclad/
+* verilog
+  * Verilog development and verification project for HOL4 https://github.com/CakeML/hardware
   
 ## Algorithms
 
