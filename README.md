@@ -151,7 +151,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * Implementing Certified Programming Language Tools in Dependent Type Theory http://adam.chlipala.net/papers/ChlipalaPhD/
 * hol
   * Mechanizing Programming Logics in Higher Order Logic https://www.cl.cam.ac.uk/archive/mjcg/Banffpaper.pdf
-  
+* os 
+  * kit http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=CF1415D8926E00366C310FE5FC6D40A5?doi=10.1.1.42.3293&rep=rep1&type=pdf
 ## Algorithms
 
 * union find https://en.wikipedia.org/wiki/Disjoint-set_data_structure
