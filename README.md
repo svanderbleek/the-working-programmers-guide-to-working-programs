@@ -214,6 +214,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 * fpga
   * reduceron https://github.com/tommythorn/Reduceron
   * https://gitlab.com/x653/nand2tetris-fpga/
+  * A FORMAL VERIFICATION METHODOLOGY FOR REAL-TIME FPGA https://library.ndsu.edu/ir/bitstream/handle/10365/26685/A%20Formal%20Verification%20Methodology%20for%20Real-time%20FPGA.pdf?sequence=3&isAllowed=y
 * isa
   * End-to-End Verification of ARM® Processors with ISA-Formal https://alastairreid.github.io/papers/cav2016_isa_formal.pdf
 * verification stack
