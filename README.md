@@ -15,6 +15,8 @@ The language built will be called Student with Desk the ide and Room the os.
 
 ## Influences
 
+"Young man, in mathematics you don't understand things. You just get used to them." - von Neumann
+
 * nand2tetris
 * digital circuit design for computer science students: an introductory textbook
 * proof in vdm
