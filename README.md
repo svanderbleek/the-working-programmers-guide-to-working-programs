@@ -198,3 +198,7 @@ logic.
 * The linear logic abstract machine https://reader.elsevier.com/reader/sd/pii/S1571066106001617?token=BDE50171214736DE16958B98A86E2B09769FD690ABD3B1695B11165B2AA2F6D3E302B47AB864E4F5A61852EB5C390B65
 
 ## Machine Language
+
+## Verification
+
+Try Cheri C example hack on nand2tetris as motivation for verification.
