@@ -59,6 +59,7 @@ The language built will be called Student with Desk the ide and Room the os.
 
 This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
+* interaction trees https://github.com/DeepSpec/InteractionTrees
 * instruction semantics
   * https://www.cl.cam.ac.uk/~pes20/sail/
 * nand2fpga
