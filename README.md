@@ -181,7 +181,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=onur-740-fall13-module5.2.1-dataflow-part1.pdf
   * Naiad: a timely dataflow system https://dl.acm.org/doi/10.1145/2517349.2522738
   * fmj dataflow language http://www.fmjlang.co.uk/fmj/FMJ.html
-  
+* risc
+  * A Practical Methodology for the Formal Verification of RISC Processors https://dl.acm.org/doi/10.1023/A%3A1008622002590
   
 ## Algorithms
 
