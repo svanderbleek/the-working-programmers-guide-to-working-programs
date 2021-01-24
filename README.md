@@ -67,6 +67,7 @@ The language built will be called Student with Desk the ide and Room the os.
 * vimium
 * reduceron
 * fpga
+* lisp machines
 
 ## Research
 
@@ -129,6 +130,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 * lisp
   * Typed Lisp https://alhassy.github.io/TypedLisp.html
   * scheme to depednent type theory https://github.com/gbaz/mess
+  * lisp machine https://www.cs.utah.edu/~mflatt/past-courses/cs6510/public_html/lispm.pdf
 * lambda calculus
   * LC Turing Machine https://www.cs.cmu.edu/~rwh/talks/cs50talk.pdf
   * Efficient Self-Interpretation in Lambda Calculus
