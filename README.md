@@ -13,6 +13,10 @@ The target audience is working programmers so there is no teaching the basics of
 
 The language built will be called Student with Desk the ide and Room the os.
 
+## Approach
+
+Desigining a computation system able to execute programs stored in memory on finite hardware is as complicated as you want to make it, we take the simplest possible approach that will work on modern hardware and target a verified microarchitecture using FPGA. The idea behind a hardware computation system is a provision of working memory into T size types of terms and O size types of operators, where O is drastically smaller than T, and provide M * T registers and P * O operators. This is a turing machine model we can also use any equivalent model if it will be easier for verification purposes. 
+
 ## Influences
 
 "Young man, in mathematics you don't understand things. You just get used to them." - von Neumann
