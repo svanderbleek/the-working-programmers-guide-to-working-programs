@@ -111,6 +111,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 * microprocessor 
   * To Reinvent microprocessor https://medium.com/@veedrac/to-reinvent-the-processor-671139a4a034
   * lets build a microprocesor javascript https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/ 
+  * Processor verification using efficient reductions of the logic of uninterpreted functions to propositional logic
 * parser
   * Parser https://tiarkrompf.github.io/notes/?/just-write-the-parser/ 
 * Provers
@@ -181,6 +182,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=onur-740-fall13-module5.2.1-dataflow-part1.pdf
   * Naiad: a timely dataflow system https://dl.acm.org/doi/10.1145/2517349.2522738
   * fmj dataflow language http://www.fmjlang.co.uk/fmj/FMJ.html
+  * https://cacm.acm.org/magazines/2019/6/237005-heterogeneous-von-neumann-dataflow-microprocessors/fulltext
 * risc
   * A Practical Methodology for the Formal Verification of RISC Processors https://dl.acm.org/doi/10.1023/A%3A1008622002590
   
