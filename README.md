@@ -82,6 +82,10 @@ Desigining a computation system able to execute programs stored in memory on fin
 This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
 
+* proof carring code
+  * http://www.cs.jhu.edu/~fabian/courses/CS600.624/proof-carrying-code.pdf
+* sequent
+  * A sequent calculus machine for symbolic computation systems 
 * high level
   * High-level verification of system designs
 * circuit
