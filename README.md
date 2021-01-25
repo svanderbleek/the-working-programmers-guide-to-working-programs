@@ -82,6 +82,9 @@ Desigining a computation system able to execute programs stored in memory on fin
 
 This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
+* verification interacting synthesis
+  * https://ptolemy.berkeley.edu/projects/embedded/research/vis/doc/VisUser/vis_user/node2.html
+  * Computational Tree Logic
 * concurrency
   * https://web.archive.org/web/20200504155703/https://www.cl.cam.ac.uk/~gw104/winskel-nielsen-models-for-concurrency.pdf
   * petri https://en.wikipedia.org/wiki/Petri_net
