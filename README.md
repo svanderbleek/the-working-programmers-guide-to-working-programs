@@ -17,7 +17,7 @@ We design a computation system able to execute programs stored in io on finite h
 
 ## Effective progress
 
-The idea behind a computation system making effective progress in a general theory of computation is that a processor P adapts the hardware H capabilities C to running an abstract machine M evaluating a language L. Specs bind C to P with proofs of M sufficiency for C and that P C implements M faithfully. This formal relationship among parts will be extended with the case of P defining an operating system and what that means for the relations. Our model of computation is effective progress, obtaining a verifiable proof using tokens of io or processing.
+The idea behind a computation system making effective progress in a general theory of computation is that a processor P adapts the hardware H capabilities C to running an abstract machine M evaluating a language L. Specs bind C to P with proofs of M sufficiency for C and that P C implements M faithfully. This formal relationship among parts will be extended with the case of P defining an operating system and what that means for the relations. Our model of computation is effective progress, obtaining an incrementally verifiable proof within finite bounds of io and processing tokens.
 
 ## Influences
 
