@@ -117,6 +117,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * https://math.stackexchange.com/questions/348379/why-is-propositional-logic-not-turing-complete
   * http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/Project-Oberon-the-next-step-of-the-N2T-Journey-td4029517.html
   * A Reduction Theorem for Predicate Logic
+  * Computation-oriented reductions of predicate to propositional logic
 * abstract machine
  * Categorical Abstract Machine
    * https://en.wikipedia.org/wiki/Categorical_abstract_machine
