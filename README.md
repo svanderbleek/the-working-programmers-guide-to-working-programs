@@ -13,9 +13,13 @@ The target audience is working programmers so there is no teaching the basics of
 
 The language built will be called Student with Desk the ide and Room the os.
 
-## Approach
+## Computation system
 
-Desigining a computation system able to execute programs stored in memory on finite hardware is as complicated as you want to make it, we take the simplest possible approach that will work on modern hardware and target a verified microarchitecture using FPGA. The idea behind a hardware computation system is a provision of working memory into T size types of terms and O size types of operators, where O is drastically smaller than T, and provide M * T registers and P * O operators. This is a turing machine model we can also use any equivalent model if it will be easier for verification purposes. 
+We design a computation system able to execute programs stored in io on finite hardware. The standard model of hardware provisions registers of T size types and O size types of operators, where cardinality of O is drastically smaller than T, and provide M * T registers and P * O operators. This is a turing machine model we can also use any equivalent model if it will be easier for verification purposes.
+
+## Effective progress
+
+The idea behind a computation system making effective progress in a general theory of computation is that a processor P adapts the hardware H capabilities C to running an abstract machine M evaluating a language L. Specs bind C to P with proofs of M sufficiency for C and that P C implements M faithfully. This formal relationship among parts will be extended with the case of P defining an operating system and what that means for the relations. Our model of computation is effective progress, obtaining a verifiable proof using tokens of io or processing.
 
 ## Influences
 
