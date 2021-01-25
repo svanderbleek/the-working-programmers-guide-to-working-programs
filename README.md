@@ -76,6 +76,7 @@ Desigining a computation system able to execute programs stored in memory on fin
 * lisp machines
 * lilith
 * zarf
+* lem
 
 ## Research
 
