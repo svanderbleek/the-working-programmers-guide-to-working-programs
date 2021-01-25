@@ -11,8 +11,6 @@ Two major goals are
 
 The target audience is working programmers so there is no teaching the basics of writing programs. All introduced concepts are fully explained by building programs. Nothing done here is for ideological purity all choices are made to maximize the simple presentation of hard concepts.
 
-The language built will be called Student with Desk the ide and Room the os.
-
 ## Computation system
 
 We design a computation system able to execute programs stored in io on finite hardware. The standard model of hardware provisions registers of T size types and O size types of operators, where cardinality of O is drastically smaller than T, and provide M * T registers and P * O operators. This is a turing machine model we can also use any equivalent model if it will be easier for verification purposes.
