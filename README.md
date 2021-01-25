@@ -75,6 +75,7 @@ Desigining a computation system able to execute programs stored in memory on fin
 * fpga
 * lisp machines
 * lilith
+* zarf
 
 ## Research
 
@@ -229,6 +230,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * Design for verifiability https://link.springer.com/chapter/10.1007/0-387-97226-9_20
   * Using Formal Techniques for Design for Verifiability https://si2.epfl.ch/~demichel/si.epfl.ch/files/content/sites/si/files/shared/Logic%20Synthesis/slides/EPFL%20LSV%20Workshop%202015_Rolf%20Drechsler.pdf
   * improving hardware designs while simplifying their proof http://webcache.googleusercontent.com/search?q=cache:Rv0hrLcRuLkJ:citeseerx.ist.psu.edu/viewdoc/download%3Bjsessionid%3D5021E76374FD1A652C5E9C4BDA3A32AF%3Fdoi%3D10.1.1.104.2960%26rep%3Drep1%26type%3Dpdf+&cd=3&hl=en&ct=clnk&gl=us
+  *  verifiability and analysis as a first-order constraint https://www.arch.cs.ucsb.edu/zarf
 * rtl
   * http://ucsbarchlab.github.io/PyRTL/
 
