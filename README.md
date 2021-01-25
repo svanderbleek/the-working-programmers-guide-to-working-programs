@@ -74,6 +74,7 @@ Desigining a computation system able to execute programs stored in memory on fin
 * reduceron
 * fpga
 * lisp machines
+* lilith
 
 ## Research
 
