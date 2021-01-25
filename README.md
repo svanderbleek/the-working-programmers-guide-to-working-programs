@@ -82,6 +82,10 @@ Desigining a computation system able to execute programs stored in memory on fin
 
 This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
+* concurrency
+  * https://web.archive.org/web/20200504155703/https://www.cl.cam.ac.uk/~gw104/winskel-nielsen-models-for-concurrency.pdf
+  * petri https://en.wikipedia.org/wiki/Petri_net
+  * kahn https://en.wikipedia.org/wiki/Kahn_process_networks
 * ku machine
   * http://web.archive.org/web/20080913062038/http://research.microsoft.com/~gurevich/Opera/78.pdf
 * types
