@@ -163,6 +163,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * Typed assembly language https://en.wikipedia.org/wiki/Typed_assembly_language
   * from system f to typed assembly
   * proof theory for low level code http://www.riec.tohoku.ac.jp/~ohori/research/LogicalMachineRevOct2005.pdf
+  * Safe functional systems through integrity types and verified assembly
 * webassembly
   * portability https://webassembly.org/docs/portability
   * import https://webassembly.github.io/spec/core/syntax/modules.html
@@ -233,6 +234,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   *  verifiability and analysis as a first-order constraint https://www.arch.cs.ucsb.edu/zarf
 * rtl
   * http://ucsbarchlab.github.io/PyRTL/
+
 
 ## Algorithms
 
