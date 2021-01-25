@@ -84,7 +84,10 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 * types
   * logical and data types https://www.researchgate.net/profile/Zhaohui_Luo/publication/243770570_Computation_and_Reasoning_A_Type_Theory_for_Computer_Science/links/54d0dc6b0cf29ca81103f26a.pdf
 * finiteness
+  * the finiteness of developments https://www.math.cmu.edu/~wgunther/FD.pdf
   * The input/output complexity of sorting and related problems https://hal.inria.fr/inria-00075827/document
+* rewrite
+  * Computing with Rewrite Systems 
 * proof carring code
   * http://www.cs.jhu.edu/~fabian/courses/CS600.624/proof-carrying-code.pdf
 * sequent
