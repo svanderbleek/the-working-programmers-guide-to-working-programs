@@ -50,7 +50,7 @@ Desigining a computation system able to execute programs stored in memory on fin
 * concrete semantics
 * decision procedures
 * the calculus of computation
-* type theory and formal proof
+* type and formal proof
 * turnstile
 * hol
 * coq
