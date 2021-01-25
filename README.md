@@ -81,7 +81,8 @@ Desigining a computation system able to execute programs stored in memory on fin
 
 This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
-
+* finiteness
+  * The input/output complexity of sorting and related problems https://hal.inria.fr/inria-00075827/document
 * proof carring code
   * http://www.cs.jhu.edu/~fabian/courses/CS600.624/proof-carrying-code.pdf
 * sequent
