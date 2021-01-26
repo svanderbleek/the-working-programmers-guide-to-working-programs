@@ -89,7 +89,8 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * Inductive methods for proving properties of programs
   * proving properties of programs by structural induction
 * programming with proofs
-  * programming with proofs file:///Users/sandy/Downloads/Parigot1988_Chapter_ProgrammingWithProofsASecondOr.pdf
+  * programming with proofs
+  * Taking proof-based verified computation a few steps closer to practicality
 * metamathematics for systems design https://www.jst.go.jp/erato/en/research_area/ongoing/16816853.html
 * How to Believe a Machine-Checked Proof https://www.brics.dk/RS/97/18/BRICS-RS-97-18.pdf
 * bisumulation
