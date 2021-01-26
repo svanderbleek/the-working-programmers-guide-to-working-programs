@@ -89,6 +89,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 * fixpoints
   * Inductive methods for proving properties of programs
   * proving properties of programs by structural induction
+  * Computation-oriented reductions of predicate to propositional logic
 * programming with proofs
   * programming with proofs
   * Taking proof-based verified computation a few steps closer to practicality
@@ -208,6 +209,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
   * from system f to typed assembly
   * proof theory for low level code http://www.riec.tohoku.ac.jp/~ohori/research/LogicalMachineRevOct2005.pdf
   * Safe functional systems through integrity types and verified assembly
+  * TALT https://www.cs.cmu.edu/~crary/papers/2003/talt/talt.pdf
 * webassembly
   * portability https://webassembly.org/docs/portability
   * import https://webassembly.github.io/spec/core/syntax/modules.html
