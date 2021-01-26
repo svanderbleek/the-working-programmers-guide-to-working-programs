@@ -44,6 +44,7 @@ The idea behind a computation system making effective progress in a general theo
 * fundamental proof methods in computer science
 * rescript
 * proofs = programs
+* programming in martin-lof's type theory
 * ml for the working programmer
 * software foundations
 * programming language fundamentals in agda
