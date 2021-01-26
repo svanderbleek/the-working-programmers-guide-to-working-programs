@@ -84,6 +84,8 @@ The idea behind a computation system making effective progress in a general theo
 
 This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
+* theorem transfer
+  * transfer principle https://en.wikipedia.org/wiki/Transfer_principle
 * optimization
   * optimization validation http://homepages.inf.ed.ac.uk/da/papers/optval/
   * improvement theory http://www.cse.chalmers.se/~dave/papers/hoots97.pdf
