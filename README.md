@@ -92,6 +92,7 @@ This is exploratory, some of it will go no where. There is a pragmatic focus wit
 * programming with proofs
   * programming with proofs
   * Taking proof-based verified computation a few steps closer to practicality
+  * A Semantic Model of Types and Machine Instructions for Proof-Carrying Code
 * metamathematics for systems design https://www.jst.go.jp/erato/en/research_area/ongoing/16816853.html
 * How to Believe a Machine-Checked Proof https://www.brics.dk/RS/97/18/BRICS-RS-97-18.pdf
 * bisumulation
