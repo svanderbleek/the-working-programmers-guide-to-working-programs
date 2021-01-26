@@ -85,6 +85,9 @@ The idea behind a computation system making effective progress in a general theo
 
 This is exploratory, some of it will go no where. There is a pragmatic focus with working so we don't go beyond that for any reason, we work with what we are given and make the least ammount of inventions to develop the verification chain and a verification focused ide. Currently that looks like webassembly with binaryen and browsix as our entry point versus the simulators of nand2tetris.
 
+* fixpoints
+  * Inductive methods for proving properties of programs
+  * proving properties of programs by structural induction
 * programming with proofs
   * programming with proofs file:///Users/sandy/Downloads/Parigot1988_Chapter_ProgrammingWithProofsASecondOr.pdf
 * metamathematics for systems design https://www.jst.go.jp/erato/en/research_area/ongoing/16816853.html
