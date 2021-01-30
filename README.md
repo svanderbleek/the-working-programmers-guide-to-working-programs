@@ -23,6 +23,7 @@ The idea behind a computation system making effective progress in a general theo
 
 * The Architecture of Symbolic Computers
 * Abstract Computing Machines
+* A Denotational Semantics for the Symmetric Interaction Combinators
 * Computation-oriented reductions of predicate to propositional logic
 
 ## Influences
