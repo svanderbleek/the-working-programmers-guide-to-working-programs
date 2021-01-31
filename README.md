@@ -32,6 +32,7 @@ The idea behind a computation system making effective progress in a general theo
 ## Machines
 
 * https://en.wikipedia.org/wiki/Krivine_machine
+* From Type Checking by Recursive Descent to Type Checking with an Abstract Machine https://ilyasergey.net/assets/pdf/papers/type-eval-ldta11.pdf
 
 ## Resources
 
