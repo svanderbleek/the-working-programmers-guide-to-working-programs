@@ -33,6 +33,10 @@ The idea behind a computation system making effective progress in a general theo
 
 * https://en.wikipedia.org/wiki/Krivine_machine
 
+## Resources
+
+* A Core Quantitative Coeffect Calculus https://lipn.univ-paris13.fr/~mazza/papers/CoreQuantCoeff.pdf
+
 ## Influences
 
 "Young man, in mathematics you don't understand things. You just get used to them." - von Neumann
