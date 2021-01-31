@@ -29,6 +29,10 @@ The idea behind a computation system making effective progress in a general theo
 * A Correspondence between Type Checking via Reduction and Type Checking via Evaluation
 * CERTIFICATES FOR INCREMENTAL TYPE CHECKING
 
+## Machines
+
+* https://en.wikipedia.org/wiki/Krivine_machine
+
 ## Influences
 
 "Young man, in mathematics you don't understand things. You just get used to them." - von Neumann
