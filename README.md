@@ -26,6 +26,8 @@ The idea behind a computation system making effective progress in a general theo
 * A Denotational Semantics for the Symmetric Interaction Combinators
 * Computation-oriented reductions of predicate to propositional logic
 * From type checking by recursive descent to type checking with an abstract machine
+* A Correspondence between Type Checking via Reduction and Type Checking via Evaluation
+* CERTIFICATES FOR INCREMENTAL TYPE CHECKING
 
 ## Influences
 
