@@ -33,6 +33,7 @@ The idea behind a computation system making effective progress in a general theo
 * The Logical Basis of Evaluation Order and Pattern-Matching
 * Light Logics and the Call-by-Value Lambda Calculus https://arxiv.org/abs/0809.0195
 * https://github.com/Soonad/Whitepaper
+* Computational Semantics of Cartesian Cubical Type Theory
 
 ## Machines
 
