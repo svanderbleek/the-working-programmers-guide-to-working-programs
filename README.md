@@ -36,6 +36,7 @@ The idea behind a computation system making effective progress in a general theo
 ## Resources
 
 * A Core Quantitative Coeffect Calculus https://lipn.univ-paris13.fr/~mazza/papers/CoreQuantCoeff.pdf
+* Resource Constrained Programming with Full Dependent Types
 
 ## Influences
 
