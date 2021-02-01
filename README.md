@@ -37,6 +37,12 @@ The idea behind a computation system making effective progress in a general theo
 * https://github.com/Soonad/Whitepaper
 * Computational Semantics of Cartesian Cubical Type Theory
 
+## Build It
+
+Linear dependent types seems like a good target, don't think there's any need for homotopy or cubical type theories.
+
+* Intrinsically Typed Compilation with Nameless Labels
+
 ## Machines
 
 * https://en.wikipedia.org/wiki/Krivine_machine
