@@ -21,6 +21,8 @@ The idea behind a computation system making effective progress in a general theo
 
 ## Missing links
 
+* Foundational Proof-Carrying Code https://www.cs.princeton.edu/~appel/papers/fpcc.pdf
+
 * The Architecture of Symbolic Computers
 * Abstract Computing Machines
 * A Denotational Semantics for the Symmetric Interaction Combinators
