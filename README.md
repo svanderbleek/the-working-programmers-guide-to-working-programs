@@ -41,7 +41,7 @@ The idea behind a computation system making effective progress in a general theo
 
 Linear dependent types seems like a good target, don't think there's any need for homotopy or cubical type theories.
 
-* Intrinsically Typed Compilation with Nameless Labels
+* Intrinsically Typed Compilation with Nameless Labels https://dl.acm.org/doi/pdf/10.1145/3434303
 
 ## Machines
 
