@@ -40,6 +40,8 @@ The idea behind a computation system making effective progress in a general theo
 
 ## Incorporate
 
+* neverlang A framework for feature-oriented language development https://cazzola.di.unimi.it/pubs/comlan15-published.pdf
+
 > A syntax-directed definition [16] (SDD) is a technique to implement the semantics of context-free languages, in terms of their grammar. Attribute grammars [14] are a formalism introduced by Knuth to represent SDDs by associating information with a language construct by attaching attributes to the grammar symbols representing the construct. Attribute grammars specify the values of the attributes by associating semantic rules with the grammar productions. Syntax-directed translation schemes (SDTs) are sometimes described as complementary notation to attribute grammars. A syntax-directed translation scheme is a context-free grammar with program fragments embedded within production bodies, called semantic actions, with the purpose of translating an input program written in a given language into a target language; that is, SDTs are usually employed to implement compilers. Any SDT can be implemented by first building the parse tree that represents the input program, and then performing the actions in a left-to-right depth-first order, that is, during a preorder traversal [16]. 1 Literature has also shown how to support true language embedding through library-based, possibly type-driven language preprocessing [9,10]. 2 E. Vacchi, W. Cazzola / Computer Languages, Systems & Structures 43 (2015) 1–40
 > Typically, SDTs are implemented during parsing, without building a parse tree. In this case, two important classes of
 grammars are [16]
