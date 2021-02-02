@@ -23,6 +23,7 @@ The idea behind a computation system making effective progress in a general theo
 
 * Foundational Proof-Carrying Code https://www.cs.princeton.edu/~appel/papers/fpcc.pdf
 * Evaluating and comparing language workbenches: Existing results and benchmarks for the future
+* structural https://dl.acm.org/doi/pdf/10.1145/3093333.3009900
 
 * The Architecture of Symbolic Computers
 * Abstract Computing Machines
