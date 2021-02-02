@@ -50,6 +50,10 @@ grammars are [16]
 >  S-Attributed Grammars, a class of attribute grammars that can be incorporated in both top-down parsing and bottom-up parsing. Any S-attributed grammar is also an L-attributed grammar.
 > However, L-attributed and S-attributed grammars are rather limited classes, and many interesting although simple languages cannot be defined using this translation scheme. The main benefit of implementing L-attributed and S-attributed grammars is that the evaluation order of the semantic rules is known a priori, because they impose constraints on the way semantic rules are defined. In fact, in attribute grammars we distinguish between the set of synthesized attributes, expressed only in terms of the attributes of the children of a nonterminal symbol, and inherited attributes, expressed in terms of the attributes of their ancestors or siblings. The S in S-Attributed grammars stands for synthesized: this class allows only synthesized attributes to be defined. It is the class that traditional parser generators such as yacc support. In L-attributed grammars, the inherited attributes can be evaluated in one single left-to-right pass.
 
+Defunctionalization
+
+> Besides its use as a compilation technique for higher-order functional languages, defunctionalization has been studied (particularly by Olivier Danvy and collaborators) as a way of mechanically transforming interpreters into abstract machines.
+
 ## Build It
 
 Linear dependent types seems like a good target, don't think there's any need for homotopy or cubical type theories.
