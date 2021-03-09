@@ -38,6 +38,7 @@ The idea behind a computation system making effective progress in a general theo
 * Light Logics and the Call-by-Value Lambda Calculus https://arxiv.org/abs/0809.0195
 * https://github.com/Soonad/Whitepaper
 * Computational Semantics of Cartesian Cubical Type Theory
+* https://en.wikipedia.org/wiki/Lucid_(programming_language)
 
 ## Incorporate
 
